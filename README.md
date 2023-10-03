@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Theo, and I am currently studying BSc Computer Science at the University of Portsmouth.
+
+I love graphic design and web development!
 <!--
 **TheoGraham05/TheoGraham05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
